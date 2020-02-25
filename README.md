@@ -1,5 +1,5 @@
 # Capstone
-Graduation Project Showcase
+**Graduation Project Showcase**
 
 As I conclude my studies at Southern New Hampshire University, I can look back as see what I have learned, and more importantly, how what I have learned can work with my previous knowledge and experience to move me forward in my career.  I have over 20 years of experience in Information Technology.  However, that has mainly been in Network Design and Engineering.  I have installed servers and implemented applications.  I have designed and built data and voice networks from the ground up.  I have secured network and prioritized traffic to limit and allow different protocols to support different applications.  However, I have not been directly involved in any software development, and it is an understanding of the development process that I have gained at SNHU. In particular, the experience that I gained using Git for collaborating with other programmers and the experience with application development creating an Android app were particularly interesting.
 
