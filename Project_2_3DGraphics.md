@@ -1,4 +1,4 @@
-**3-D Graphics - OpenGL**
+# 3-D Graphics - OpenGL
 
 *Briefly describe the artifact. What is it? When was it created?*
 
