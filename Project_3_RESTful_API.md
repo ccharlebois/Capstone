@@ -1,4 +1,4 @@
-**RESTful API with MongoDB**
+# RESTful API with MongoDB
 
 *Briefly describe the artifact. What is it? When was it created?*
 
